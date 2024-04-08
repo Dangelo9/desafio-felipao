@@ -29,7 +29,5 @@ else if(estrelas >= 10001){
 }
 
 console.log( nomeHeroi+ " voce tem "+ estrelas + " estrelas " + "e está no nivel " + nivel )
-console.log("Usuario: " + nomeHeroi)
-console.log("Estrelas: " + estrelas)
-console.log("Nivel: " + nivel)
+
 
