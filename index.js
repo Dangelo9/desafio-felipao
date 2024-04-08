@@ -32,3 +32,4 @@ console.log( nomeHeroi+ " voce tem "+ estrelas + " estrelas " + "e está no nive
 console.log("Usuario: " + nomeHeroi)
 console.log("Estrelas: " + estrelas)
 console.log("Nivel: " + nivel)
+
